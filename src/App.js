@@ -30,7 +30,7 @@ const App = () => {
       formData.append("file", file);
     }
     // http://127.0.0.1:8000/
-    const result = await axios.post("https://7b03-35-193-93-169.ngrok-free.app", formData, {
+    const result = await axios.post("https://c391-34-143-135-252.ngrok-free.app", formData, {
       headers: {
         "Content-Type": "multipart/form-data",
       },
