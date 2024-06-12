@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/generative-vision/static/js/main.d38b8c22.js",
+    "main.js": "/generative-vision/static/js/main.c54aa2c7.js",
     "index.html": "/generative-vision/index.html",
-    "main.d38b8c22.js.map": "/generative-vision/static/js/main.d38b8c22.js.map"
+    "main.c54aa2c7.js.map": "/generative-vision/static/js/main.c54aa2c7.js.map"
   },
   "entrypoints": [
-    "static/js/main.d38b8c22.js"
+    "static/js/main.c54aa2c7.js"
   ]
 }
